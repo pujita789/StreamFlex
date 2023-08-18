@@ -1,2 +1,8 @@
-# StreamFlex
-I've crafted a state-of-the-art streaming platform using React, Redux, and Vite for seamless performance. Leveraging the TMDb API, users can effortlessly explore a wide range of movies and TV shows. jQuery enhances interactivity, while Vite ensures swift builds. The result? An engaging platform that delivers a diverse entertainment experience.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
